@@ -29,8 +29,5 @@ This license is effective upon receipt of the Code and continues until terminate
 6. Disclaimer of Warranties; Limitation of Liability
 The Code is provided “as is,” without warranties of any kind. To the maximum extent permitted by law, the Author shall not be liable for any damages arising from use of or inability to use the Code.
 
-7. Governing Law & Venue
-[Specify governing law and forum, e.g., “This agreement is governed by the laws of [Country/State]. Disputes will be resolved in the courts of [City, Country/State].”]
-
-8. Permissions
+7. Permissions
 Any permissions to modify, distribute, or perform acts not granted in Section 2 require the Author’s prior written consent.
