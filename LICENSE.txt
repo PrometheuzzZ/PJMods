@@ -1,0 +1,36 @@
+Restricted Software License
+
+Version: 1.0
+Date: 2025-08-29
+Author: PrometheuZ
+
+1. Subject
+This license governs the use of the software source code and/or binaries (“Code”) created by the Author.
+
+2. Granted Rights
+The Author grants you a non-exclusive, non-transferable, non-sublicensable right to:
+- run and use the Code only in unmodified form for your own internal purposes.
+
+No other rights are granted.
+
+3. Restrictions
+Without the Author’s prior written permission, you must not:
+- modify the Code (including adaptations, translations, forks);
+- distribute the Code, in whole or in part, in any form (sharing with third parties, publishing to repositories, posting online, selling, renting, or offering as a service);
+- decompile, disassemble, or reverse engineer the Code, except where expressly permitted by applicable law;
+- transfer this license or grant sublicenses.
+
+4. Ownership
+All rights in and to the Code and related intellectual property remain with the Author. No assignment of rights is intended or made.
+
+5. Term & Termination
+This license is effective upon receipt of the Code and continues until terminated. It automatically terminates if you breach its terms; upon termination you must stop using the Code and delete all copies.
+
+6. Disclaimer of Warranties; Limitation of Liability
+The Code is provided “as is,” without warranties of any kind. To the maximum extent permitted by law, the Author shall not be liable for any damages arising from use of or inability to use the Code.
+
+7. Governing Law & Venue
+[Specify governing law and forum, e.g., “This agreement is governed by the laws of [Country/State]. Disputes will be resolved in the courts of [City, Country/State].”]
+
+8. Permissions
+Any permissions to modify, distribute, or perform acts not granted in Section 2 require the Author’s prior written consent.
